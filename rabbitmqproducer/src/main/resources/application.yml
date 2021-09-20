@@ -1,6 +1,7 @@
 spring:
  main:
-  web-application-type: none rabbitmq:    host: localhost    port: 5672    username: guest    password: guest
+  web-application-type: none
+ rabbitmq:    host: localhost    port: 5672    username: guest    password: guest
 
 
 exchange:
