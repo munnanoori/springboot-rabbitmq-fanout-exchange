@@ -1,0 +1,1 @@
+# springboot-rabbitmq-fanout-exchange
